@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-- 🔭 Desenvolvedor Backend, atualmente trabalhando com Java
+- 🔭 Desenvolvedor Backend, atualmente trabalhando com Java <br>
 - 🌱 Atualmente aprendendo Spring Boot e JavaScript
 <p> </p>
 </div>
