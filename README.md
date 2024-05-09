@@ -6,7 +6,7 @@
 
 <div align="center">
 - 🔭 Desenvolvedor Backend, atualmente trabalhando com Java <br>
-- 🌱 Atualmente aprendendo Spring Boot e JavaScript
+- 🌱 Atualmente aprendendo PHP e Kotlin
 <p> </p>
 </div>
 
